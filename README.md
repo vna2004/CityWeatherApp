@@ -98,7 +98,7 @@ CityWeatherApp/
 ## 📌 Live Demo
 
 - **GitHub Repository**: [Click Here](https://github.com/vna2004/CityWeatherApp)
-- **Live Website**: [Click Here](#) <!-- Add your deployed URL here -->
+- **Live Website**: [Click Here](https://vna2004.github.io/CityWeatherApp/) <!-- Add your deployed URL here -->
 
 ---
 
@@ -124,7 +124,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Veena Madhure**
 - GitHub: [@vna2004](https://github.com/vna2004)
-- LinkedIn: [Add your LinkedIn profile](#) <!-- Optional -->
+- LinkedIn: [Veena Madhure](https://www.linkedin.com/in/veena-madhure20/) <!-- Optional -->
 
 ---
 
